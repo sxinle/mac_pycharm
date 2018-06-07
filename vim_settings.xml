@@ -26,22 +26,12 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="49" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/config.properties" timestamp="1501303884146">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="13" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500115720839">
         <mark key="'" line="86" column="50" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/MerchantConfig.xml" timestamp="1501303667155">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
         <mark key="[" line="33" column="38" />
@@ -68,6 +58,9 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1528348946885">
+        <mark key="'" line="14742" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeDetail.scala.html" timestamp="1500115209009">
         <mark key="'" line="0" column="0" />
@@ -124,10 +117,6 @@
         <mark key="." line="97" column="4" />
         <mark key="^" line="50" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/build.sbt" timestamp="1501134163295">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1500783623274">
         <mark key="'" line="82" column="14" />
         <mark key="[" line="113" column="60" />
@@ -151,10 +140,6 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/JbpmManagerImpl.java" timestamp="1502465333504">
         <mark key="'" line="339" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/storagebatch/StorageBatchController.java" timestamp="1501232232967">
-        <mark key="[" line="292" column="25" />
-        <mark key="]" line="292" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500863245098">
         <mark key="'" line="7" column="15" />
@@ -198,6 +183,9 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="/Python Console" timestamp="1528351345103">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
@@ -217,11 +205,12 @@
         <mark key="^" line="340" column="27" />
         <mark key="." line="334" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1501298704549">
-        <mark key="'" line="206" column="31" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Desktop/gworkCommon/static/assets/scripts/g-common.js" timestamp="1528349533115">
+        <mark key="'" line="218" column="22" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="81" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="181" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" timestamp="1502464728075">
         <mark key="[" line="22" column="18" />
@@ -251,6 +240,13 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/gworkCommon/gworkCommon/settings.py" timestamp="1528350667243">
+        <mark key="'" line="103" column="46" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="137" column="82" />
+        <mark key="^" line="137" column="82" />
+        <mark key="." line="137" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500710548414">
         <mark key="'" line="0" column="0" />
@@ -282,12 +278,6 @@
         <mark key="^" line="210" column="81" />
         <mark key="." line="206" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" timestamp="1501299024156">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="112" column="23" />
-        <mark key="." line="1" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1500110874349">
         <mark key="'" line="337" column="6" />
         <mark key="[" line="82" column="0" />
@@ -301,12 +291,6 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/UserController.java" timestamp="1502461016842">
-        <mark key="'" line="238" column="45" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-      </file>
       <file name="/a.regexp" timestamp="1501303105930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -316,6 +300,13 @@
         <mark key="]" line="154" column="0" />
         <mark key="^" line="161" column="84" />
         <mark key="." line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" timestamp="1528350463115">
+        <mark key="'" line="460" column="8" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="^" line="387" column="15" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/AccountBank.java" timestamp="1502463133665">
         <mark key="[" line="75" column="60" />
@@ -335,10 +326,6 @@
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/zsyh/src/com/czb/mer/Startup.java" timestamp="1501303282150">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500387158656">
         <mark key="'" line="0" column="0" />
@@ -367,23 +354,9 @@
       <file name="$USER_HOME$/Desktop/gworkCommon/gdashboard/forms.py" timestamp="1528344457811">
         <mark key="'" line="13" column="21" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py" timestamp="1528350219857" />
     </filemarks>
     <jumps>
-      <jump line="206" column="40" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/User.xml" />
-      <jump line="118" column="10" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="261" column="13" filename="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" />
-      <jump line="279" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" />
-      <jump line="157" column="8" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
-      <jump line="647" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
-      <jump line="47" column="49" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="12" column="46" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="11" column="51" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="64" column="36" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" />
-      <jump line="20" column="4" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="200" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
@@ -469,6 +442,21 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
       <jump line="13" column="21" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/forms.py" />
+      <jump line="14742" column="44" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" />
+      <jump line="200" column="19" filename="$USER_HOME$/Desktop/gworkCommon/static/assets/scripts/g-common.js" />
+      <jump line="201" column="30" filename="$USER_HOME$/Desktop/gworkCommon/static/assets/scripts/g-common.js" />
+      <jump line="218" column="22" filename="$USER_HOME$/Desktop/gworkCommon/static/assets/scripts/g-common.js" />
+      <jump line="386" column="36" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="401" column="31" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="403" column="31" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="405" column="27" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="409" column="29" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="411" column="29" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="376" column="11" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="378" column="25" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="23" column="5" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="460" column="8" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="103" column="46" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,34 +469,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>util.</text>
+        <text>websocket</text>
       </register>
       <register name="0" type="4">
         <text>bpmn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3czovLyIgKyB3aW5kb3cubG9jYXRpb24uaG9zdCArICIvdGFpbGxvZy8iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgid3M6Ly8iICsgd2luZG93LmxvY2F0aW9uLmhvc3QgKyAiL3RhaWxsb2cvIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfmgqjlj6/og73mnInmlbDmja7msqHmnInkv53lrZgnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJpbmQgY2xvc2UiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKHdpbmRvdykuYmluZCgnYmVmb3JldW5sb2FkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBzb2NrZXQuY2xvc2UoKQogICAgICAgICAgICByZXR1cm4gJ+aCqOWPr+iDveacieaVsOaNruayoeacieS/neWtmCc7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -518,19 +506,16 @@
       </register>
     </registers>
     <search>
-      <last-search>util.</last-search>
+      <last-search>websocket</last-search>
       <last-offset />
-      <last-pattern>util.</last-pattern>
+      <last-pattern>websocket</last-pattern>
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>database</entry>
-        <entry encoding="base64">XDxkYXRhYmFzZWtleVw+</entry>
-        <entry>jh_prod</entry>
         <entry>jdbc</entry>
         <entry>导出</entry>
         <entry>user</entry>
@@ -548,6 +533,9 @@
         <entry encoding="base64">XDxhY2NlcHRSZXN1bHRcPg==</entry>
         <entry>moneyPay</entry>
         <entry>util.</entry>
+        <entry encoding="base64">XDxjbG9zZVw+</entry>
+        <entry>socket</entry>
+        <entry>websocket</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
