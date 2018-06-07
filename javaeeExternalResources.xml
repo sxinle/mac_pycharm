@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/a34b92d1_spring-beans-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/dea0e7f1_spring-mvc-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/5f7618a3_spring-tool-3.2.xsd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/83a69ba6_xhtml1-transitional.dtd" />
+    <ignored-resource url="http://jakarta.apache.org/log4j/" />
+    <ignored-resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
+  </component>
+</application>

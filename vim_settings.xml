@@ -1,0 +1,631 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/static/commonHeader.js" timestamp="1500711800429">
+        <mark key="'" line="92" column="100" />
+        <mark key="[" line="95" column="59" />
+        <mark key="]" line="95" column="62" />
+        <mark key="^" line="95" column="62" />
+        <mark key="." line="95" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501147689883">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1502464428572">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/Application.java" timestamp="1502463970308">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="49" column="17" />
+        <mark key="^" line="49" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/config.properties" timestamp="1501303884146">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500115720839">
+        <mark key="'" line="86" column="50" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="101" column="22" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/MerchantConfig.xml" timestamp="1501303667155">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
+        <mark key="[" line="33" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/ctrl/Application.java" timestamp="1502463425288">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/alterDB.sql" timestamp="1500541206169">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501303376588">
+        <mark key="[" line="58" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501143798523">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeDetail.scala.html" timestamp="1500115209009">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="98" column="61" />
+        <mark key="]" line="98" column="68" />
+        <mark key="^" line="98" column="68" />
+        <mark key="." line="98" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" timestamp="1504968742140">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" timestamp="1500386860943">
+        <mark key="'" line="140" column="11" />
+        <mark key="[" line="141" column="41" />
+        <mark key="]" line="141" column="45" />
+        <mark key="." line="141" column="45" />
+        <mark key="^" line="141" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" timestamp="1500783732590">
+        <mark key="'" line="242" column="71" />
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/distributeDetail.scala.html" timestamp="1502461305910">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="123" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1504968904875">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1500784193438">
+        <mark key="'" line="460" column="54" />
+        <mark key="[" line="465" column="81" />
+        <mark key="]" line="462" column="81" />
+        <mark key="^" line="462" column="81" />
+        <mark key="." line="465" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501147078233">
+        <mark key="'" line="64" column="30" />
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="4" />
+        <mark key="." line="97" column="4" />
+        <mark key="^" line="50" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/build.sbt" timestamp="1501134163295">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1500783623274">
+        <mark key="'" line="82" column="14" />
+        <mark key="[" line="113" column="60" />
+        <mark key="]" line="113" column="94" />
+        <mark key="^" line="113" column="94" />
+        <mark key="." line="113" column="94" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" timestamp="1500513783667">
+        <mark key="'" line="93" column="48" />
+        <mark key="[" line="93" column="42" />
+        <mark key="]" line="93" column="48" />
+        <mark key="." line="93" column="48" />
+        <mark key="^" line="93" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1501134074138">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/JbpmManagerImpl.java" timestamp="1502465333504">
+        <mark key="'" line="339" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/storagebatch/StorageBatchController.java" timestamp="1501232232967">
+        <mark key="[" line="292" column="25" />
+        <mark key="]" line="292" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500863245098">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" timestamp="1500520912413">
+        <mark key="'" line="602" column="0" />
+        <mark key="[" line="486" column="90" />
+        <mark key="]" line="486" column="91" />
+        <mark key="^" line="486" column="91" />
+        <mark key="." line="486" column="91" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DistributeService.java" timestamp="1500786497411">
+        <mark key="'" line="90" column="66" />
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="60" />
+        <mark key="." line="90" column="60" />
+        <mark key="^" line="90" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/jbpm/order.jpdl.xml" timestamp="1500101899191">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/build.sbt" timestamp="1501134167534">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/cart.scala.html" timestamp="1504968324468">
+        <mark key="'" line="127" column="52" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145918928">
+        <mark key="'" line="641" column="0" />
+        <mark key="[" line="537" column="88" />
+        <mark key="]" line="537" column="88" />
+        <mark key="^" line="537" column="88" />
+        <mark key="." line="537" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
+        <mark key="'" line="316" column="77" />
+        <mark key="[" line="334" column="55" />
+        <mark key="]" line="334" column="56" />
+        <mark key="^" line="340" column="27" />
+        <mark key="." line="334" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1501298704549">
+        <mark key="'" line="206" column="31" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" timestamp="1502464728075">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/.idea/workspace.xml" timestamp="1500386877668">
+        <mark key="'" line="116" column="11" />
+        <mark key="[" line="117" column="41" />
+        <mark key="]" line="117" column="45" />
+        <mark key="." line="117" column="45" />
+        <mark key="^" line="117" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeConfirm.scala.html" timestamp="1500112374969">
+        <mark key="'" line="96" column="82" />
+        <mark key="[" line="96" column="80" />
+        <mark key="]" line="96" column="89" />
+        <mark key="." line="96" column="89" />
+        <mark key="^" line="96" column="89" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1499499291832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500856159974">
+        <mark key="'" line="102" column="39" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="116" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500710548414">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="63" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="29" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" timestamp="1500790831553">
+        <mark key="'" line="189" column="76" />
+        <mark key="[" line="99" column="56" />
+        <mark key="]" line="99" column="66" />
+        <mark key="." line="99" column="66" />
+        <mark key="^" line="99" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1502464660943">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="203" column="24" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/User.xml" timestamp="1501119986412">
+        <mark key="'" line="206" column="40" />
+        <mark key="[" line="206" column="16" />
+        <mark key="]" line="206" column="22" />
+        <mark key="^" line="210" column="81" />
+        <mark key="." line="206" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" timestamp="1501299024156">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="112" column="23" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1500110874349">
+        <mark key="'" line="337" column="6" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="50" />
+        <mark key="." line="167" column="31" />
+        <mark key="^" line="167" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/main.scala.html" timestamp="1502463085715">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/UserController.java" timestamp="1502461016842">
+        <mark key="'" line="238" column="45" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1501303105930">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1500098786495">
+        <mark key="'" line="155" column="69" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="161" column="84" />
+        <mark key="." line="154" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/AccountBank.java" timestamp="1502463133665">
+        <mark key="[" line="75" column="60" />
+        <mark key="]" line="75" column="60" />
+        <mark key="." line="75" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1500786060741">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="198" column="53" />
+        <mark key="]" line="198" column="66" />
+        <mark key="^" line="198" column="66" />
+        <mark key="." line="198" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/ctrl/Application.java" timestamp="1502462849137">
+        <mark key="'" line="59" column="6" />
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/zsyh/src/com/czb/mer/Startup.java" timestamp="1501303282150">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500387158656">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/paperOrderDetailNew.scala.html" timestamp="1500711211139">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="152" column="30" />
+        <mark key="]" line="152" column="39" />
+        <mark key="." line="152" column="30" />
+        <mark key="^" line="153" column="49" />
+      </file>
+      <file name="/fragment.java" timestamp="1502464646278">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" timestamp="1501048617082">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/gworkCommon/gdashboard/forms.py" timestamp="1528344457811">
+        <mark key="'" line="13" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="206" column="40" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/User.xml" />
+      <jump line="118" column="10" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="261" column="13" filename="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" />
+      <jump line="279" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" />
+      <jump line="157" column="8" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="647" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="47" column="49" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="12" column="46" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="11" column="51" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="64" column="36" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="200" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
+      <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
+      <jump line="345" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="52" column="48" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="3" column="19" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
+      <jump line="331" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="73" column="62" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="527" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="495" column="31" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="522" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="641" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="69" column="57" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="120" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="30" column="51" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="74" column="14" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="108" column="30" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="99" column="28" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="55" column="14" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="64" column="30" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="125" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/setup/Setup.java" />
+      <jump line="100" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="344" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="133" column="49" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="235" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="106" column="16" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="111" column="18" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="79" column="40" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="91" column="46" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="62" column="25" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="160" column="68" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="135" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="132" column="44" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="131" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="82" column="70" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="151" column="54" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="7" column="29" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
+      <jump line="12" column="43" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
+      <jump line="18" column="13" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
+      <jump line="25" column="12" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="113" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="14" column="29" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/logging.xml" />
+      <jump line="13" column="48" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/logging.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/logging.xml" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/logging.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/logging.xml" />
+      <jump line="16" column="21" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="115" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="469" column="102" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="202" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="52" column="60" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/zsyh/src/com/czb/mer/CheckCusAuth.java" />
+      <jump line="206" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="153" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="156" column="106" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="18" column="11" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/config.properties" />
+      <jump line="238" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/UserController.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/Application.java" />
+      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/distributeDetail.scala.html" />
+      <jump line="13" column="56" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="155" column="50" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="48" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/ctrl/Application.java" />
+      <jump line="9" column="22" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="18" column="11" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="329" column="4" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/JbpmManagerImpl.java" />
+      <jump line="339" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/JbpmManagerImpl.java" />
+      <jump line="0" column="14" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="127" column="52" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/cart.scala.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="13" column="21" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/forms.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>基本废物......</text>
+      </register>
+      <register name="*" type="4">
+        <text>''</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>util.</text>
+      </register>
+      <register name="0" type="4">
+        <text>bpmn</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>util.</last-search>
+      <last-offset />
+      <last-pattern>util.</last-pattern>
+      <last-replace />
+      <last-substitute>util.</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>database</entry>
+        <entry encoding="base64">XDxkYXRhYmFzZWtleVw+</entry>
+        <entry>jh_prod</entry>
+        <entry>jdbc</entry>
+        <entry>导出</entry>
+        <entry>user</entry>
+        <entry encoding="base64">QCA=</entry>
+        <entry>makecode</entry>
+        <entry>sqlSer</entry>
+        <entry encoding="base64">XDxzcWxTZXJ2ZXJTZXNzaW9uRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxzcWxTZXNzaW9uRmFjdG9yeVw+</entry>
+        <entry>+</entry>
+        <entry encoding="base64">XDxzaWduZWREYXRhXD4=</entry>
+        <entry>recharge</entry>
+        <entry>rechargeEN</entry>
+        <entry>batch</entry>
+        <entry>10.0.7.130\\:465</entry>
+        <entry encoding="base64">XDxhY2NlcHRSZXN1bHRcPg==</entry>
+        <entry>moneyPay</entry>
+        <entry>util.</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyAvXHQvZw==</entry>
+        <entry>nohl</entry>
+        <entry encoding="base64">JzwsJz5zLywvXG4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvXG5cci9n</entry>
+        <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLysvXG4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLysvXHJcbi9n</entry>
+        <entry encoding="base64">JzwsJz5zLysvXHIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLysvXHIrL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEwLjAuNy4xMzBcXDo0NjUvNjAuMTkxLjE1LjkyOjQ2NS9n</entry>
+        <entry encoding="base64">JzwsJz5zLzEwLjAuNy4xMzBcXDo0NjUvNjAuMTkxLjE1LjkyXFw6NDY1L2c=</entry>
+        <entry>vsp config.properteis</entry>
+        <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
