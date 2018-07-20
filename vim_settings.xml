@@ -201,6 +201,13 @@
         <mark key="^" line="537" column="88" />
         <mark key="." line="537" column="88" />
       </file>
+      <file name="$USER_HOME$/Desktop/gworkCommon/templates/hostlist.html" timestamp="1528422468299">
+        <mark key="'" line="109" column="17" />
+        <mark key="[" line="352" column="10" />
+        <mark key="]" line="353" column="5" />
+        <mark key="^" line="353" column="5" />
+        <mark key="." line="353" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
         <mark key="'" line="316" column="77" />
         <mark key="[" line="334" column="55" />
@@ -304,8 +311,8 @@
         <mark key="^" line="161" column="84" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" timestamp="1528350463115">
-        <mark key="'" line="460" column="8" />
+      <file name="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" timestamp="1528421807372">
+        <mark key="'" line="126" column="44" />
         <mark key="[" line="387" column="0" />
         <mark key="]" line="387" column="0" />
         <mark key="^" line="387" column="15" />
@@ -359,8 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
@@ -459,6 +464,8 @@
       <jump line="460" column="8" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="103" column="46" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/settings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/wsgi.py" />
+      <jump line="126" column="44" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
+      <jump line="109" column="17" filename="$USER_HOME$/Desktop/gworkCommon/templates/hostlist.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,7 +478,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>websocket</text>
+        <text>hostmanage</text>
       </register>
       <register name="0" type="4">
         <text>bpmn</text>
@@ -508,17 +515,16 @@
       </register>
     </registers>
     <search>
-      <last-search>websocket</last-search>
+      <last-search>hostmanage</last-search>
       <last-offset />
-      <last-pattern>websocket</last-pattern>
+      <last-pattern>hostmanage</last-pattern>
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jdbc</entry>
         <entry>导出</entry>
         <entry>user</entry>
         <entry encoding="base64">QCA=</entry>
@@ -538,6 +544,7 @@
         <entry encoding="base64">XDxjbG9zZVw+</entry>
         <entry>socket</entry>
         <entry>websocket</entry>
+        <entry>hostmanage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
