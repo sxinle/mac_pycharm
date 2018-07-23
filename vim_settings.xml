@@ -215,6 +215,10 @@
         <mark key="^" line="340" column="27" />
         <mark key="." line="334" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" timestamp="1532312321908">
+        <mark key="'" line="103" column="29" />
+        <mark key="^" line="102" column="54" />
+      </file>
       <file name="$USER_HOME$/Desktop/gworkCommon/static/assets/scripts/g-common.js" timestamp="1528349533115">
         <mark key="'" line="218" column="22" />
         <mark key="[" line="198" column="0" />
@@ -366,13 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
-      <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
-      <jump line="345" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="52" column="48" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="3" column="19" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
@@ -466,6 +463,13 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/wsgi.py" />
       <jump line="126" column="44" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="109" column="17" filename="$USER_HOME$/Desktop/gworkCommon/templates/hostlist.html" />
+      <jump line="16" column="34" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="92" column="4" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="94" column="74" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="99" column="18" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="100" column="25" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="105" column="28" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="103" column="29" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -475,34 +479,34 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test.mp4</text>
       </register>
       <register name="/" type="4">
-        <text>hostmanage</text>
+        <text>protos</text>
       </register>
       <register name="0" type="4">
         <text>bpmn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3czovLyIgKyB3aW5kb3cubG9jYXRpb24uaG9zdCArICIvdGFpbGxvZy8iKTsK</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgbGFiZWxfbWFwX3V0aWwKZnJvbSB1dGlscyBpbXBvcnQgdmlzdWFsaXphdGlvbl91dGlscyBhcyB2aXNfdXRpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgid3M6Ly8iICsgd2luZG93LmxvY2F0aW9uLmhvc3QgKyAiL3RhaWxsb2cvIik7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3czovLyIgKyB3aW5kb3cubG9jYXRpb24uaG9zdCArICIvdGFpbGxvZy8iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfmgqjlj6/og73mnInmlbDmja7msqHmnInkv53lrZgnOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgid3M6Ly8iICsgd2luZG93LmxvY2F0aW9uLmhvc3QgKyAiL3RhaWxsb2cvIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJpbmQgY2xvc2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfmgqjlj6/og73mnInmlbDmja7msqHmnInkv53lrZgnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKHdpbmRvdykuYmluZCgnYmVmb3JldW5sb2FkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBzb2NrZXQuY2xvc2UoKQogICAgICAgICAgICByZXR1cm4gJ+aCqOWPr+iDveacieaVsOaNruayoeacieS/neWtmCc7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJpbmQgY2xvc2UiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkKHdpbmRvdykuYmluZCgnYmVmb3JldW5sb2FkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBzb2NrZXQuY2xvc2UoKQogICAgICAgICAgICByZXR1cm4gJ+aCqOWPr+iDveacieaVsOaNruayoeacieS/neWtmCc7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -511,13 +515,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action $Redo</text>
       </register>
     </registers>
     <search>
-      <last-search>hostmanage</last-search>
+      <last-search>protos</last-search>
       <last-offset />
-      <last-pattern>hostmanage</last-pattern>
+      <last-pattern>protos</last-pattern>
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
@@ -525,8 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>导出</entry>
-        <entry>user</entry>
         <entry encoding="base64">QCA=</entry>
         <entry>makecode</entry>
         <entry>sqlSer</entry>
@@ -545,9 +547,10 @@
         <entry>socket</entry>
         <entry>websocket</entry>
         <entry>hostmanage</entry>
+        <entry>pro</entry>
+        <entry>protos</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
@@ -567,6 +570,7 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
         <entry>w</entry>
+        <entry>action $Redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
