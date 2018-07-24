@@ -158,6 +158,9 @@
         <mark key="^" line="486" column="91" />
         <mark key="." line="486" column="91" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/license/train-license-province.py" timestamp="1532395976574">
+        <mark key="'" line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DistributeService.java" timestamp="1500786497411">
         <mark key="'" line="90" column="66" />
         <mark key="[" line="90" column="54" />
@@ -373,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="62" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="527" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
       <jump line="495" column="31" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
       <jump line="522" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
@@ -473,6 +475,7 @@
       <jump line="90" column="5" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
       <jump line="13" column="41" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/demo/license/train-license-province.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -528,7 +531,7 @@
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
