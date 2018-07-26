@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift meta alt h" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -33,7 +33,7 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
@@ -49,6 +49,7 @@
   <action id="MergeSettings">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="MinimizeCurrentWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
