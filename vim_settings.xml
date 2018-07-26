@@ -42,11 +42,11 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" timestamp="1532587761118">
+      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" timestamp="1532588795505">
         <mark key="'" line="146" column="0" />
         <mark key="k" line="21" column="15" />
-        <mark key="[" line="142" column="22" />
-        <mark key="]" line="142" column="23" />
+        <mark key="[" line="124" column="38" />
+        <mark key="]" line="124" column="52" />
         <mark key="." line="142" column="23" />
         <mark key="^" line="126" column="31" />
       </file>
@@ -516,7 +516,7 @@
         <text encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getStructuringElement</text>
+        <text>cv2.MORPH_CLOSE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5jCg==</text>
