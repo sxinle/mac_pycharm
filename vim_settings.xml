@@ -42,12 +42,13 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" timestamp="1532585269890">
+      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" timestamp="1532587761118">
         <mark key="'" line="146" column="0" />
         <mark key="k" line="21" column="15" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
+        <mark key="[" line="142" column="22" />
+        <mark key="]" line="142" column="23" />
+        <mark key="." line="142" column="23" />
+        <mark key="^" line="126" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
         <mark key="[" line="33" column="38" />
@@ -202,7 +203,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532584736487">
+      <file name="/Python Console" timestamp="1532587763430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
@@ -509,13 +510,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>_8u)</text>
+        <text>局部自适应OTSU图像</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      <register name="0" type="4">
+        <text>getStructuringElement</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZW5jCg==</text>
