@@ -19,6 +19,12 @@
       <file name="/a.dummy" timestamp="1502464428572">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/idcard.py" timestamp="1532584514659">
+        <mark key="'" line="145" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/Application.java" timestamp="1502463970308">
         <mark key="'" line="47" column="16" />
         <mark key="[" line="49" column="11" />
@@ -35,6 +41,13 @@
         <mark key="]" line="130" column="0" />
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" timestamp="1532584612955">
+        <mark key="'" line="146" column="0" />
+        <mark key="k" line="21" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
         <mark key="[" line="33" column="38" />
@@ -189,13 +202,19 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1532582697801">
+      <file name="/Python Console" timestamp="1532584736487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
+      </file>
+      <file name="/fragment.py" timestamp="1532584213064">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145918928">
         <mark key="'" line="641" column="0" />
@@ -287,7 +306,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532323000623">
+      <file name="/Dummy.txt" timestamp="1532584665308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
@@ -381,14 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="31" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
-      <jump line="522" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
-      <jump line="641" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
-      <jump line="69" column="57" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="120" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="30" column="51" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="74" column="14" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="108" column="30" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="99" column="28" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="55" column="14" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="64" column="30" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
@@ -481,6 +492,14 @@
       <jump line="88" column="0" filename="$USER_HOME$/workspace/demo/models/research/object_detection/detect_video.py" />
       <jump line="171" column="0" filename="$USER_HOME$/workspace/demo/license/train-license-province.py" />
       <jump line="245" column="41" filename="$USER_HOME$/workspace/demo/license/train-license-digits.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="15" column="14" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
+      <jump line="144" column="3" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/idcard.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/dushu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -490,57 +509,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>movie</text>
+        <text encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>1510076213_454_1</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBuIGluIHJhbmdlKCcxNTEwMDc2MjEzXzQ1NF8xJyk6CiAgICAgICAgIyBwYXRoID0gInRlc3RfaW1hZ2VzLzE1MTAwNzYyMTNfNDU0XzEuYm1wIgo=</text>
+        <text encoding="base64">ZW5jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBuIGluIHJhbmdlKCcxNTEwMDc2MjEzXzQ1NF8xJyk6Cg==</text>
+        <text encoding="base64">IyBlbmNvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgbGFiZWxfbWFwX3V0aWwKZnJvbSB1dGlscyBpbXBvcnQgdmlzdWFsaXphdGlvbl91dGlscyBhcyB2aXNfdXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBuIGluIHJhbmdlKCcxNTEwMDc2MjEzXzQ1NF8xJyk6CiAgICAgICAgIyBwYXRoID0gInRlc3RfaW1hZ2VzLzE1MTAwNzYyMTNfNDU0XzEuYm1wIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3czovLyIgKyB3aW5kb3cubG9jYXRpb24uaG9zdCArICIvdGFpbGxvZy8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBuIGluIHJhbmdlKCcxNTEwMDc2MjEzXzQ1NF8xJyk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgid3M6Ly8iICsgd2luZG93LmxvY2F0aW9uLmhvc3QgKyAiL3RhaWxsb2cvIik7Cg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgbGFiZWxfbWFwX3V0aWwKZnJvbSB1dGlscyBpbXBvcnQgdmlzdWFsaXphdGlvbl91dGlscyBhcyB2aXNfdXRpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfmgqjlj6/og73mnInmlbDmja7msqHmnInkv53lrZgnOwo=</text>
+        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3czovLyIgKyB3aW5kb3cubG9jYXRpb24uaG9zdCArICIvdGFpbGxvZy8iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJpbmQgY2xvc2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgid3M6Ly8iICsgd2luZG93LmxvY2F0aW9uLmhvc3QgKyAiL3RhaWxsb2cvIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKHdpbmRvdykuYmluZCgnYmVmb3JldW5sb2FkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBzb2NrZXQuY2xvc2UoKQogICAgICAgICAgICByZXR1cm4gJ+aCqOWPr+iDveacieaVsOaNruayoeacieS/neWtmCc7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfmgqjlj6/og73mnInmlbDmja7msqHmnInkv53lrZgnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImJpbmQgY2xvc2UiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>movie</last-search>
+      <last-search encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</last-search>
       <last-offset />
-      <last-pattern>movie</last-pattern>
+      <last-pattern encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</last-pattern>
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>makecode</entry>
         <entry>sqlSer</entry>
         <entry encoding="base64">XDxzcWxTZXJ2ZXJTZXNzaW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxzcWxTZXNzaW9uRmFjdG9yeVw+</entry>
@@ -560,6 +578,7 @@
         <entry>pro</entry>
         <entry>protos</entry>
         <entry>movie</entry>
+        <entry encoding="base64">XDxpbWdfc2hvd19ob29rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
