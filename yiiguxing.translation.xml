@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digit" />
+      <item value="Linear" />
+      <item value="Regression" />
+      <item value="regression" />
+      <item value="regession" />
+      <item value="analysis" />
       <item value="coefficient" />
       <item value="train" />
       <item value="y Predict" />
