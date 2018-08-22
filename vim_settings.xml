@@ -47,6 +47,13 @@
       <file name="$USER_HOME$/Desktop/gworkCommon/gworkCommon/wsgi.py" timestamp="1528352487992">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/linear/data.csv" timestamp="1534918362442">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500115720839">
         <mark key="'" line="86" column="50" />
         <mark key="[" line="130" column="0" />
@@ -196,6 +203,12 @@
       <file name="$USER_HOME$/workspace/demo/license/train-license-province.py" timestamp="1532399740074">
         <mark key="'" line="171" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/linear/data2.csv" timestamp="1534920092504">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DistributeService.java" timestamp="1500786497411">
         <mark key="'" line="90" column="66" />
         <mark key="[" line="90" column="54" />
@@ -224,7 +237,7 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534908100537">
+      <file name="/Python Console" timestamp="1534923454036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
@@ -232,7 +245,7 @@
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="/fragment.py" timestamp="1532592749761">
+      <file name="/fragment.py" timestamp="1534921412717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -328,7 +341,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532584665308">
+      <file name="/Dummy.txt" timestamp="1534914967843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
@@ -385,12 +398,12 @@
         <mark key="]" line="75" column="60" />
         <mark key="." line="75" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/linear/req.py" timestamp="1534912780823">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/demo/linear/req.py" timestamp="1534923693331">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1500786060741">
         <mark key="'" line="221" column="0" />
@@ -435,14 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="40" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="91" column="46" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="62" column="25" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="160" column="68" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="135" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="132" column="44" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="131" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="82" column="70" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="151" column="54" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="7" column="29" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
       <jump line="12" column="43" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
@@ -535,6 +540,14 @@
       <jump line="34" column="0" filename="$USER_HOME$/workspace/demo/linear/req.py" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/demo/linear/req.py" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="28" column="34" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/demo/linear/data.csv" />
+      <jump line="19" column="36" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/linear/data2.csv" />
+      <jump line="27" column="13" filename="$USER_HOME$/workspace/demo/linear/req.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/workspace/demo/linear/req.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -544,31 +557,31 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>dushu</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWdfY29udG91cl9zZWxlY3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>warpPerspective</text>
+        <text>sklearn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBSZXF1aXJlZCBQYWNrYWdlcwo=</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGxpbmVhciByZWdyZXNzaW9uIG9iamVjdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyA2IG5hbWXlj4LmlbDnmoTlupTnlKgK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXN1bHQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">IyA1IOaOpeaUtlBPU1Tor7fmsYLvvIzov5Tlm55QT1NU5pWw5o2uCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0dmFsdWUgPSA3MDAKICAgICAgICByZXN1bHQgPSBsaW5lYXJfbW9kZWxfbWFpbihYLCBZLCBwcmVkaWN0dmFsdWUpCiAgICAgICAgcHJpbnQgIkludGVyY2VwdCB2YWx1ZSAiLCByZXN1bHRbJ2ludGVyY2VwdCddCiAgICAgICAgcHJpbnQgImNvZWZmaWNpZW50IiwgcmVzdWx0Wydjb2VmZmljaWVudCddCiAgICAgICAgcHJpbnQgIlByZWRpY3RlZCB2YWx1ZTogIiwgcmVzdWx0WydwcmVkaWN0ZWRfdmFsdWUnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyA0IOaOpeaUtlBPU1Tor7fmsYLvvIzov5Tlm55qc29u5pWw5o2uCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAzIOaOpeaUtkdFVOivt+axgu+8jOi/lOWbnkdFVOaVsOaNruS4rW5hbWXnmoTlgLwK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -577,7 +590,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZmlnID0gcGx0LmZpZ3VyZShmaWdzaXplPSgxLCAxKSkKICAgICMgc2lvID0gQnl0ZXNJTygpCiAgICAjIGZpZy5zYXZlZmlnKHNpbywgZm9ybWF0PSdwbmcnLCBiYm94X2luY2hlcz0ndGlnaHQnLCBwYWRfaW5jaGVzPTAuMCkKICAgICMgc3JjID0gJzxodG1sPjxpbWcgc3JjPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsJyArIGI2NC5iNjRlbmNvZGUoc2lvLmdldHZhbHVlKCkpICsgJyIvPjwvaHRtbD4nOwoKICAgICMgcmV0dXJuIHNyYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -621,7 +634,6 @@
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyAvXHQvZw==</entry>
-        <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zLywvXG4vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvXG5cci9n</entry>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
@@ -635,6 +647,7 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
         <entry>action $Redo</entry>
+        <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
