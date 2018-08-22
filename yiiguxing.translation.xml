@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coefficient" />
+      <item value="train" />
+      <item value="y Predict" />
       <item value="Elimination" />
       <item value="Backward" />
       <item value="optimal" />
