@@ -1,0 +1,11 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Elimination" />
+      <item value="Backward" />
+      <item value="optimal" />
+      <item value="trap" />
+      <item value="dummy" />
+    </histories>
+  </component>
+</application>
