@@ -12,7 +12,8 @@
       <file name="/start_script.py" timestamp="1534908129639">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/nose/tools/__init__.py" timestamp="1535088480940">
+      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/nose/tools/__init__.py" timestamp="1535092223202">
+        <mark key="'" line="180" column="4" />
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="19" />
       </file>
@@ -45,12 +46,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/linear/test/Test.py" timestamp="1535089761781">
-        <mark key="'" line="15" column="51" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+      <file name="$USER_HOME$/workspace/demo/linear/test/Test.py" timestamp="1535092745950">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="42" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/demo/license/train-license-digits.py" timestamp="1532408656963">
         <mark key="[" line="244" column="23" />
@@ -84,7 +85,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501303376588">
         <mark key="[" line="58" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535088787202">
+      <file name="/Dummy.txt" timestamp="1535092787576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
@@ -150,12 +151,12 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/linear/handler.py" timestamp="1535088634635">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="26" column="44" />
-        <mark key="." line="26" column="44" />
+      <file name="$USER_HOME$/workspace/demo/linear/handler.py" timestamp="1535092774323">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="25" column="44" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/linear/venv/lib/python2.7/site-packages/sklearn/linear_model/base.py" timestamp="1534924361811">
         <mark key="[" line="404" column="6" />
@@ -182,10 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/UserController.java" />
-      <jump line="47" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/Application.java" />
-      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/distributeDetail.scala.html" />
-      <jump line="13" column="56" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="155" column="50" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="48" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/ctrl/Application.java" />
       <jump line="9" column="22" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
@@ -282,6 +279,10 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspace/demo/linear/handler.py" />
       <jump line="91" column="4" filename="$USER_HOME$/workspace/demo/linear/handler.py" />
       <jump line="15" column="51" filename="$USER_HOME$/workspace/demo/linear/test/Test.py" />
+      <jump line="16" column="34" filename="$USER_HOME$/workspace/demo/linear/test/Test.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/workspace/demo/linear/test/Test.py" />
+      <jump line="180" column="4" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/nose/tools/__init__.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/demo/linear/test/Test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,40 +292,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
-      <register name="0" type="4">
-        <text>pp.wsgifunc(*middleware</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByID0gdGVzdEFwcC5wb3N0KCcvJywgY29sbGVjdGlvbnMuT3JkZXJlZERpY3QoWygnaGVhZGVyJywgJ29uJyksICgneGluZGV4JywgJzEyJyksICgneWluZGV4JywgJzInKV0pLAogICAgICAgICAgICAgICAgICAgICAgICAgdXBsb2FkX2ZpbGVzPVsoJ2ZpbGUnLCAndGVzdC9oZWFkZXIuY3N2JyldLAogICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0X2Vycm9ycz1GYWxzZSkKICAgICAgICBhc3NlcnRfdHJ1ZSgndmFsaWQgcmFuZ2Ugb2YnIGluIHIuYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfbm90X2VxdWFsKHIuc3RhdHVzLCAyMDApCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIgYXMgbXBsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgpIG11c3QgYmUgY2FsbGVkICpiZWZvcmUqIHB5bGFiLCBtYXRwbG90bGliLnB5cGxvdCwKaWYgb3MuZW52aXJvbi5nZXQoJ0RJU1BMQVknLCAnJykgPT0gJyc6CiAgICBwcmludCgnbm8gZGlzcGxheSBmb3VuZC4gVXNpbmcgbm9uLWludGVyYWN0aXZlIEFnZyBiYWNrZW5kJykKICAgIG1wbC51c2UoJ0FnZycpCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzID0geydDb250ZW50LVR5cGUnOiAnbXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9Ym91bmRhcnknfQogICAgICAgIHJlc3BvbnNlID0gYXBwLnJlcXVlc3QoJy9tdWx0aXBhcnQnLCBtZXRob2Q9IlBPU1QiLCBkYXRhPWRhdGEsIGhlYWRlcnM9aGVhZGVycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBkYXRhID0gJy0tYm91bmRhcnlcclxuQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJ4aW5kZXgiXHJcblxyXG4xXHJcbi0tYm91bmRhcnlcclxuQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJmaWxlIjsgZmlsZW5hbWU9ImEudHh0IlxyXG5Db250ZW50LVR5cGU6IHRleHQvcGxhaW5cclxuXHJcbmFcclxuLS1ib3VuZGFyeS0tXHJcbicK</text>
+        <text encoding="base64">ZnJvbSB3ZWJ0ZXN0IGltcG9ydCBVcGxvYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByLm11c3Rjb250YWluKCdMaW5lYXIgUmVncmVzc2lvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtWydmaWxlJ10gPSBVcGxvYWQoJ1JFQURNRS5yc3QnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Nyw1MDAsMTg0NTAKNyw4MDAsMTg0NTAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfbm90X2VxdWFsKHIuc3RhdHVzLCAyMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Nyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAKNyw2MDAsMTg0NTAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
