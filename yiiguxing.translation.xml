@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
+      <item value="validate" />
       <item value="digit" />
       <item value="Linear" />
       <item value="Regression" />
