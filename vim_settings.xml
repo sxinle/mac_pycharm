@@ -40,12 +40,6 @@
       <file name="/a.dummy" timestamp="1535081127156">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dust_repos/opencv_tesseract/idcard.py" timestamp="1532584514659">
-        <mark key="'" line="145" column="3" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/linear/test/Test.py" timestamp="1535092745950">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="24" column="39" />
@@ -53,6 +47,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/preprocessing/ssd_vgg_preprocessing.py" timestamp="1551325853689" />
       <file name="$USER_HOME$/workspace/demo/license/train-license-digits.py" timestamp="1532408656963">
         <mark key="[" line="244" column="23" />
         <mark key="]" line="244" column="24" />
@@ -195,12 +190,6 @@
       </file>
       <file name="$USER_HOME$/workspace/demo/linear-regression/linear-regression/handler.py" timestamp="1536304445386">
         <mark key="'" line="18" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/linear/data2.csv" timestamp="1534920092504">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1502464646278">
         <mark key="[" line="0" column="0" />
