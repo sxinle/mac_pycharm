@@ -23,7 +23,7 @@
         <mark key="." line="27" column="25" />
         <mark key="^" line="27" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1535253244601">
+      <file name="/Python Console" timestamp="1551324451231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/Application.java" timestamp="1502462938671">
@@ -87,10 +87,13 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/test_code.py" timestamp="1551324844777">
+        <mark key="'" line="146" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501303376588">
         <mark key="[" line="58" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535253136688">
+      <file name="/Dummy.txt" timestamp="1551324375187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
@@ -204,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="31" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
-      <jump line="403" column="31" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="405" column="27" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="409" column="29" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="411" column="29" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
@@ -304,6 +305,8 @@
       <jump line="15" column="7" filename="$USER_HOME$/workspace/demo/linear-regression/linear-regression/handler.py" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/demo/linear-regression/linear-regression/handler.py" />
       <jump line="18" column="10" filename="$USER_HOME$/workspace/demo/linear-regression/linear-regression/handler.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
+      <jump line="146" column="44" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -316,7 +319,7 @@
         <text>linear-regression.</text>
       </register>
       <register name="/" type="4">
-        <text>regre</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCgppbXBvcnQgb3MKaW1wb3J0IG1hdHBsb3RsaWIgYXMgbXBsCiMgbWF0cGxvdGxpYi51c2UoKSBtdXN0IGJlIGNhbGxlZCAqYmVmb3JlKiBweWxhYiwgbWF0cGxvdGxpYi5weXBsb3QsCmlmIG9zLmVudmlyb24uZ2V0KCdESVNQTEFZJywgJycpID09ICcnOgogICAgcHJpbnQoJ25vIGRpc3BsYXkgZm91bmQuIFVzaW5nIG5vbi1pbnRlcmFjdGl2ZSBBZ2cgYmFja2VuZCcpCiAgICBtcGwudXNlKCdBZ2cnKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmltcG9ydCBiYXNlNjQgYXMgYjY0CmltcG9ydCBqc29uCmZyb20gaW8gaW1wb3J0IEJ5dGVzSU8KaW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgc3RhdHNtb2RlbHMuYXBpIGFzIHNtCmltcG9ydCB3ZWIKCgp1cmxzID0gKAogICAgJy8nLCAncmVncmVzc2lvbicsCikKYXBwID0gd2ViLmFwcGxpY2F0aW9uKHVybHMsIGdsb2JhbHMoKSkKCgpjbGFzcyByZWdyZXNzaW9uOgogICAgZGVmIEdFVChzZWxmKToKICAgICAgICB3ZWIuaGVhZGVyKCdjb250ZW50LXR5cGUnLCAndGV4dC9odG1sJykKICAgICAgICByZXR1cm4gb3BlbihyJ3N0YXRpYy9pbmRleC5odG1sJywgJ3InKS5yZWFkKCkKCiAgICBkZWYgUE9TVChzZWxmKToKICAgICAgICB3ZWIuaGVhZGVyKCdjb250ZW50LXR5cGUnLCAndGV4dC9qc29uJykKICAgICAgICBjc3YgPSB3ZWIuaW5wdXQoZmlsZT17fSkKICAgICAgICBmaWxlX25hbWUgPSBzYXZlQ3N2KGNzdikKCiAgICAgICAgd2l0aF9oZWFkZXIgPSAnaGVhZGVyJyBpbiBjc3YgYW5kIGNzdi5oZWFkZXIgPT0gJ29uJwogICAgICAgIGlmIG5vdCBjc3YueGluZGV4LmlzZGlnaXQoKSBvciBub3QgY3N2LnlpbmRleC5pc2RpZ2l0KCk6CiAgICAgICAgICAgIHJldHVybiBqc29uLmR1bXBzKHsnZXJyb3InOiAneCBhbmQgeSBjb2x1bW4gaW5kZXggbXVzdCBiZSBkaWdpdCd9KQoKICAgICAgICBpbnB1dFggPSBpbnQoY3N2LnhpbmRleCkKICAgICAgICBpbnB1dFkgPSBpbnQoY3N2LnlpbmRleCkKICAgICAgICBkYXRhRnJhbWUgPSBwZC5yZWFkX2NzdihmaWxlX25hbWUsIGhlYWRlcj0wIGlmIHdpdGhfaGVhZGVyIGVsc2UgTm9uZSkKICAgICAgICBjb2xzID0gZGF0YUZyYW1lLmNvbHVtbnMKICAgICAgICBpZiBpbnB1dFggPiBjb2xzLnNpemUgb3IgaW5wdXRZID4gY29scy5zaXplOgogICAgICAgICAgICByZXR1cm4ganNvbi5kdW1wcyh7J2Vycm9yJzogJ3RoZSB2YWxpZCByYW5nZSBvZiB4ICYgeSBpcyAnICsgJ1sxIH4gJyArIHN0cihjb2xzLnNpemUpICsgJ10nfSkKCiAgICAgICAgeCwgeSA9IHByZXBhcmVEYXRhKGRhdGFGcmFtZSwgY29scywgd2l0aF9oZWFkZXIsIGlucHV0WCAtIDEsIGlucHV0WSAtIDEpCgogICAgICAgIHJldHVybiBqc29uLmR1bXBzKG1rUmVzcCh4LCB5KSkKCgpkZWYgc2F2ZUNzdihjc3YpOgogICAgaWYgJ2ZpbGUnIGluIGNzdjoKICAgICAgICBmaWxlbmFtZSA9IGNzdi5maWxlLmZpbGVuYW1lLnJlcGxhY2UoJ1xcJywgJy8nKS5zcGxpdCgnLycpWy0xXQogICAgICAgIHN2ckZpbGUgPSAnZmlsZS11cGxvYWRzLycgKyBmaWxlbmFtZQogICAgICAgIGZvdXQgPSBvcGVuKHN2ckZpbGUsICd3JykKICAgICAgICBmb3V0LndyaXRlKGNzdi5maWxlLmZpbGUucmVhZCgpKQogICAgICAgIGZvdXQuY2xvc2UoKQogICAgcmV0dXJuIHN2ckZpbGUKCgpkZWYgcHJlcGFyZURhdGEoZGYsIGNvbHMsIHdpdGhfaGVhZGVyLCB4LCB5KToKICAgIGRhdGEgPSB6aXAoZGZbY29sc1t4XV0sIGRmW2NvbHNbeV1dKSBpZiB3aXRoX2hlYWRlciBlbHNlIHppcChkZlt4XSwgZGZbeV0pCiAgICB4UGFyYW1zID0gW10KICAgIHlQYXJhbXMgPSBbXQogICAgZm9yIGNlbGxYLCBjZWxsWSBpbiBkYXRhOgogICAgICAgIHhQYXJhbXMuYXBwZW5kKFtmbG9hdChjZWxsWCldKQogICAgICAgIHlQYXJhbXMuYXBwZW5kKGZsb2F0KGNlbGxZKSkKICAgIHJldHVybiB4UGFyYW1zLCB5UGFyYW1zCgoKZGVmIG1rUmVzcCh4UGFyYW1zLCB5UGFybWFzKToKICAgIHJlc3VsdHMgPSBzbS5PTFMoeVBhcm1hcywgc20uYWRkX2NvbnN0YW50KHhQYXJhbXMpKS5maXQoKQogICAgc3VtID0gcmVzdWx0cy5zdW1tYXJ5KCkKCiAgICB5X2ZpdHRlZCA9IHJlc3VsdHMuZml0dGVkdmFsdWVzCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKGZpZ3NpemU9KDgsIDYpKQogICAgYXgucGxvdCh4UGFyYW1zLCB5UGFybWFzLCAnbycsIGxhYmVsPSdkYXRhJykKICAgIGF4LnBsb3QoeFBhcmFtcywgeV9maXR0ZWQsICdyLS0uJywgbGFiZWw9J09MUycpCiAgICBheC5sZWdlbmQobG9jPSdiZXN0JykKICAgIHBsdC54bGFiZWwoJ1gnLCBmb250c2l6ZT0xOCkKICAgIHBsdC55bGFiZWwoJ1knLCBmb250c2l6ZT0xOCkKCiAgICBzaW8gPSBCeXRlc0lPKCkKICAgIHBsdC5zYXZlZmlnKHNpbywgZm9ybWF0PSdwbmcnLCBiYm94X2luY2hlcz0ndGlnaHQnLCBwYWRfaW5jaGVzPTAuMCwgZHBpPTIwMCkKCiAgICBpbWdIdG1sID0gJzxpbWcgc3JjPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsJyArIGI2NC5iNjRlbmNvZGUoc2lvLmdldHZhbHVlKCkpLmRlY29kZSgndXRmOCcpICsgJyIvPicKICAgIHJldHVybiB7J2ltZ0h0bWwnOiBpbWdIdG1sLCAndGJzJzogW3N1bS50YWJsZXNbMF0uYXNfaHRtbCgpLCBzdW0udGFibGVzWzFdLmFzX2h0bWwoKSwgc3VtLnRhYmxlc1syXS5hc19odG1sKCldfQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBhcHAucnVuKCkK</text>
@@ -353,9 +356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>regre</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>regre</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
@@ -363,9 +366,6 @@
     </search>
     <history>
       <history-search>
-        <entry>batch</entry>
-        <entry>10.0.7.130\\:465</entry>
-        <entry encoding="base64">XDxhY2NlcHRSZXN1bHRcPg==</entry>
         <entry>moneyPay</entry>
         <entry>util.</entry>
         <entry encoding="base64">XDxjbG9zZVw+</entry>
@@ -383,6 +383,9 @@
         <entry>;</entry>
         <entry>handler</entry>
         <entry>regre</entry>
+        <entry encoding="base64">XDxNT0RFTF9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbF9kaXJcPg==</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
