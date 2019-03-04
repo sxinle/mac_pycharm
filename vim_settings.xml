@@ -81,8 +81,8 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/test_code.py" timestamp="1551674339510">
-        <mark key="'" line="275" column="21" />
+      <file name="$USER_HOME$/workspace/uuvalue/test_code.py" timestamp="1551684943870">
+        <mark key="'" line="264" column="0" />
         <mark key="[" line="269" column="82" />
         <mark key="]" line="270" column="0" />
         <mark key="." line="270" column="0" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="5" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="460" column="8" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="103" column="46" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/settings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/wsgi.py" />
@@ -299,6 +298,7 @@
       <jump line="362" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
       <jump line="269" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
       <jump line="275" column="21" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
