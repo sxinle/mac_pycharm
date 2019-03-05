@@ -81,17 +81,17 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/test_code.py" timestamp="1551684943870">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="269" column="82" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
-        <mark key="^" line="270" column="0" />
+      <file name="$USER_HOME$/workspace/uuvalue/test_code.py" timestamp="1551758482100">
+        <mark key="'" line="33" column="13" />
+        <mark key="[" line="265" column="25" />
+        <mark key="]" line="265" column="29" />
+        <mark key="." line="265" column="29" />
+        <mark key="^" line="265" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501303376588">
         <mark key="[" line="58" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551674063149">
+      <file name="/Dummy.txt" timestamp="1551758485531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501298991566">
@@ -199,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="8" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
-      <jump line="103" column="46" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/settings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/gworkCommon/gworkCommon/wsgi.py" />
       <jump line="126" column="44" filename="$USER_HOME$/Desktop/gworkCommon/gdashboard/views.py" />
       <jump line="109" column="17" filename="$USER_HOME$/Desktop/gworkCommon/templates/hostlist.html" />
@@ -299,6 +297,8 @@
       <jump line="269" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
       <jump line="275" column="21" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
       <jump line="264" column="0" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
+      <jump line="129" column="33" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
+      <jump line="33" column="13" filename="$USER_HOME$/workspace/uuvalue/test_code.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +308,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>statistic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWRlb3BhdGhcPg==</text>
@@ -354,7 +354,7 @@
       <last-replace />
       <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
