@@ -1,0 +1,17 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-09-02T10:11:42</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.7.0.0</property>
+    <property name="modified">2019-09-02T10:13:02</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="ea0000" />
+  </colors>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
+</scheme>
